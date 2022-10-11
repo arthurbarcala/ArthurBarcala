@@ -1,6 +1,6 @@
 <table>
         <tr>
-          <td><h1>Olá!</h1></td>
+          <td><h1>Olá, seja bem vindo!</h1></td>
         </tr>
         <tr>
             <td>
