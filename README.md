@@ -1,4 +1,4 @@
-<h1>Olá, seja me vindo!</h1>
+<h1>Olá, seja bem vindo!</h1>
 <h2>Meu nome é Arthur. Atualmente estou estudando desenvolvimento de sistemas na @germinatech e estagiando na PicPay.</h2>
 <img src="https://i.kym-cdn.com/entries/icons/mobile/000/035/557/Hi_Bingus.jpg" width="200px">
 <hr>
