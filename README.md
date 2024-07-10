@@ -12,9 +12,9 @@ Principais tecnologias que utilizo no dia a dia e que tenho familiaridade:
 
 ## Projetos
 Aqui estão alguns dos meus projetos mais recentes:
-- [Cofe for iOS 🍎](https://github.com/arthurbarcala/cofe-for-ios)
-- [Cofe ☕](https://arthurbarcala.github.io/cofe/)
-- [Cofe API 🔁](https://github.com/arthurbarcala/cofe-api)
+- [POC Video 🎥](https://github.com/arthurbarcala/poc-video)
+- [POC Audio 🎧](https://github.com/arthurbarcala/poc-audio)
+- [Chat App 💬](https://github.com/arthurbarcala/ChatApp-Websocket)
 
 ## Estatísticas do Github
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=arthurbarcala&show_icons=true&theme=radical)
