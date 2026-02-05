@@ -1,6 +1,8 @@
 # Olá! 👋
+![WIP](https://img.shields.io/badge/status-work%20in%20progress-yellow)
+> 🚧 README em construção. Atualizações em breve.
 
-## Sobre mim
+<!-- ## Sobre mim
 Meu nome é Arthur, estudo análise e desenvolvimento de sistemas no Instituto J&F e trabalho no PicPay, onde utilizo Swift como a linguagem principal para o desenvolvimento do projeto em que atuo. 💚
 
 ## Tecnologias
@@ -19,7 +21,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 ## Estatísticas do Github
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=arthurbarcala&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbarcala&layout=compact&theme=radical)
-
+-->
 ## Contato
 Para entrar em contato comigo:
 - [E-mail 📩](mailto:arthurfbarcalars@gmail.com)
