@@ -27,5 +27,5 @@ Para entrar em contato comigo:
 - [E-mail 📩](mailto:arthurfbarcalars@gmail.com)
 - [LinkedIn 🧑‍💻](https://www.linkedin.com/in/arthur-barcala-94244b253/)
 
-## Agradecimentos
-Gostaria de agradecer a todos que me ajudaram ao longo da minha jornada de programação 💖
+<!-- ## Agradecimentos
+Gostaria de agradecer a todos que me ajudaram ao longo da minha jornada de programação 💖 -->
